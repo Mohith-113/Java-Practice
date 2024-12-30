@@ -10,7 +10,7 @@ interface forReturn{
 
 public class LambdaExpression {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {b 
         A obj = () -> System.out.println("In the show() of interface A");
         
         obj.show();
